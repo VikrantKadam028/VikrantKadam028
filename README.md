@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @VikrantKadam028
-- 👀 I’m interested in creating new things
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email me - Vikrantkk2889@gmail.com
+-INTRODUCTION :
+👋 Hi there! I'm Vikrant, a frontend developer passionate about crafting exceptional web experiences.
 
-<!---
-VikrantKadam028/VikrantKadam028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-SKILLS :
+💻 JavaScript | HTML | CSS
+🎨 UI/UX Design | Responsive Web Design
+🛠️ Frontend Frameworks: Bootstrap
+Other : C, C++, Java, SQL
+
+-INTERESTS :
+🚀 Building Scalable Web Applications
+🎨 Creating Beautiful and Intuitive User Interfaces
+🔄 Exploring New Frontend Technologies
+🌱 Learning Something New Every Day
+
+-CONNECT WITH ME :
+🐦 Twitter: https://twitter.com/VikrantKadam28
+
+
+
+
+
+
+
