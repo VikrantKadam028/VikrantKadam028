@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=800&size=40&duration=1999&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey!+%F0%9F%91%8B%2C+I'm+VIKRANT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=900&size=50&duration=1999&pause=1000&vCenter=true&random=false&width=435&lines=Hey!+%F0%9F%91%8B%2C+I'm+VIKRANT" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer & Python Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
