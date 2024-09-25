@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=League+Spartan&weight=900&size=75&duration=1999&pause=1500&center=true&vCenter=true&random=false&width=1250&height=80&lines=Hey!+%F0%9F%91%8B%2C+I'm+VIKRANT" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer & Python Developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/2231d6bd-4b5d-46b2-b1e1-80992448f9ee">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/HEjHnAobWLVtRwYS9">
 
 
 <p align="left"> <a href="https://twitter.com/vikrantkadam28" target="blank"><img src="https://img.shields.io/twitter/follow/vikrantkadam28?logo=twitter&style=for-the-badge" alt="vikrantkadam28" /></a> </p>
