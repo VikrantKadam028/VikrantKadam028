@@ -1,5 +1,5 @@
-<h2 align="center" style="font-family: 'Impact', sans-serif;"><strong>Hey there! I'm Vikrant 🤝✨</strong></h2>
-<h3 align="center" style="font-family: 'Poppins', sans-serif;">💻 Crafting web experiences with creativity and code 🎨</h3>
+<h2 align="center" style="font-family: 'Impact', sans-serif; font-weight: 700;"><strong>Hey there! I'm Vikrant</strong></h2>
+<h3 align="center" style="font-family: 'Poppins', sans-serif;">Eat, Sleep, Code, Repeat! 💻🔄/h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
 
