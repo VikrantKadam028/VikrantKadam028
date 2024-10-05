@@ -1,6 +1,190 @@
 # 💫 About Me:
 👋 Hey there! I'm Vikrant, a passionate Frontend Developer on a mission to craft beautiful, intuitive, and high-performing web applications.<br><br>💻 Tech Stack :  <br>- JavaScript, HTML, CSS  <br>- 🎨 UI/UX Design  <br>- 📱 Responsive Web Development  <br>- 🛠️ Frontend Frameworks <br><br>🚀 What I Love :<br>- Building seamless, scalable web experiences 🌐  <br>- Exploring the latest in frontend tech 🔍  <br>- Designing with user-first principles 🎯  <br>- Always learning and leveling up ⬆️<br><br>🌟 Let's create something awesome together! 🌟<br>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Keyboard Animation</title>
+  <style>
+    body {
+      background-color: #101013;
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: "Poppins", sans-serif;
+      font-weight: 900;
+    }
+
+    .key {
+      font-size: 15vw;
+      display: inline-block;
+      letter-spacing: -1vw;
+      transition: transform 0.2s;
+    }
+
+    @keyframes pressDown1 {
+      30%, 40%, 100% {
+        transform: translateY(0);
+      }
+      35% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown2 {
+      70%, 80%, 100% {
+        transform: translateY(0);
+      }
+      75% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown3 {
+      30%, 40%, 100% {
+        transform: translateY(0);
+      }
+      35% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown4 {
+      40%, 50%, 100% {
+        transform: translateY(0);
+      }
+      45% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown5 {
+      20%, 30%, 100% {
+        transform: translateY(0);
+      }
+      25% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown6 {
+      60%, 70%, 100% {
+        transform: translateY(0);
+      }
+      65% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown7 {
+      10%, 20%, 100% {
+        transform: translateY(0);
+      }
+      15% {
+        transform: translateY(10px);
+      }
+    }
+
+    @keyframes pressDown8 {
+      35%, 45%, 100% {
+        transform: translateY(0);
+      }
+      40% {
+        transform: translateY(10px);
+      }
+    }
+
+    .key:nth-child(1) {
+      animation: pressDown1 2s infinite;
+    }
+
+    .key:nth-child(2) {
+      animation: pressDown2 3s infinite;
+    }
+
+    .key:nth-child(3) {
+      animation: pressDown3 4s infinite;
+    }
+
+    .key:nth-child(4) {
+      animation: pressDown4 2.5s infinite;
+    }
+
+    .key:nth-child(5) {
+      animation: pressDown5 2.5s infinite;
+    }
+
+    .key:nth-child(6) {
+      animation: pressDown6 3.5s infinite;
+    }
+
+    .key:nth-child(7) {
+      animation: pressDown7 2.2s infinite;
+    }
+
+    .key:nth-child(8) {
+      animation: pressDown8 3.2s infinite;
+    }
+
+    .jux-linx {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      gap: 10px;
+      position: absolute;
+      left: 20px;
+      bottom: 20px;
+    }
+
+    a {
+      text-decoration: none;
+      font-family: "IBM Plex Sans", sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      color: white;
+      background-color: black;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-radius: 2px;
+      padding: 5px 10px;
+      transition: 0.1s all ease-in;
+    }
+
+    a:nth-child(1):hover {
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      box-shadow: 0px 2px 0 #349eff;
+    }
+
+    a:nth-child(2):hover {
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      box-shadow: 0px 2px 0 #ff5757;
+    }
+  </style>
+</head>
+<body>
+
+<div class="keyboard">
+  <span class="key">V</span>
+  <span class="key">I</span>
+  <span class="key">K</span>
+  <span class="key">R</span>
+  <span class="key">A</span>
+  <span class="key">N</span>
+  <span class="key">T</span>
+  <span class="key">.</span>
+  <span class="key">K</span>
+</div>
+
+
+</body>
+</html>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
 
 ## 🌐 Socials:
