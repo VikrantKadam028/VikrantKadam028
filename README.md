@@ -1,4 +1,4 @@
-<h2 align="center" style="font-family: 'Verdana', sans-serif; font-size: 900;">Hey there! I'm Vikrant</h2>
+<h2 align="center" style="font-family: 'Verdana', sans-serif; font-size: 900;">Hey there! I'm ⩔ikrant ✌️</h2>
 <h3 align="center" style="font-family: 'Georgia', sans-serif;">Eat, Sleep, Code, Repeat! 💻🔄</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
@@ -16,4 +16,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VikrantKadam028&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-<img src="https://raw.githubusercontent.com/VikrantKadam028/VikrantKadam028/output/snake.svg" alt="Snake animation" />
