@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hey there! I'm Vikrant, a passionate Frontend Developer on a mission to craft beautiful, intuitive, and high-performing web applications.<br><br>💻 Tech Stack :  <br>- JavaScript, HTML, CSS  <br>- 🎨 UI/UX Design  <br>- 📱 Responsive Web Development  <br>- 🛠️ Frontend Frameworks <br><br>🚀 What I Love :<br>- Building seamless, scalable web experiences 🌐  <br>- Exploring the latest in frontend tech 🔍  <br>- Designing with user-first principles 🎯  <br>- Always learning and leveling up ⬆️<br><br>🌟 Let's create something awesome together! 🌟<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
 
 ## 🌐 Socials:
@@ -15,4 +16,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VikrantKadam028&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/VikrantKadam028/VikrantKadam028/output/snake.svg" alt="Snake animation" />
