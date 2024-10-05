@@ -1,7 +1,6 @@
-<h2 align="center" style="font-family: 'Verdana', sans-serif; font-size: 900;">Hey there! I'm ⩔ikrant ✌️</h2>
-<h3 align="center" style="font-family: 'Georgia', sans-serif;">Eat, Sleep, Code, Repeat! 💻🔄</h3>
+<h2>Hey There! I'm</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
+![Description of the SVG](https://raw.githubusercontent.com/VikrantKadam028/VikrantKadam028/refs/heads/main/Vikrantgithubreadmebox.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.vikxxnt028._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikrant-kadam-661a1832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VikrantKadam28) 
