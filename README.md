@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hey there! I'm Vikrant, a passionate Frontend Developer on a mission to craft beautiful, intuitive, and high-performing web applications.<br><br>💻 Tech Stack :  <br>- JavaScript, HTML, CSS  <br>- 🎨 UI/UX Design  <br>- 📱 Responsive Web Development  <br>- 🛠️ Frontend Frameworks <br><br>🚀 What I Love :<br>- Building seamless, scalable web experiences 🌐  <br>- Exploring the latest in frontend tech 🔍  <br>- Designing with user-first principles 🎯  <br>- Always learning and leveling up ⬆️<br><br>🌟 Let's create something awesome together! 🌟<br>
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.vikxxnt028._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikrant-kadam-661a1832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VikrantKadam28) 
