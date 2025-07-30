@@ -15,6 +15,19 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VikrantKadam028&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+<h2 align="center">🧠 LeetCode Progress</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vikrantkadam?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/vikrantkadam/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.vikxxnt028._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikrant-kadam-661a1832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VikrantKadam28) 
 
