@@ -28,7 +28,7 @@
 </p>
 
 ## 📊 My Codolio Profile
-[![Codolio](https://img.shields.io/badge/View%20My%20Codolio%20Profile-blue?style=for-the-badge&logo=codolio)](https://codolio.com/VikrantKadam)
+[![Codolio](https://img.shields.io/badge/View%20My%20Codolio%20Profile-blue?style=for-the-badge&logo=codolio)](https://codolio.com/profile/VikrantKadam)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.vikxxnt028._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikrant-kadam-661a1832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VikrantKadam28) 
