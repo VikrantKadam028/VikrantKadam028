@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=VikrantKadam28&label=👀%20Visitors&color=ff69b4&style=for-the-badge)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=VikrantKadam028&style=flat-square&color=ff69b4&logo=github&logoColor=white&label=Profile%20Views)
 
 </div>
 
