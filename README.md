@@ -1,10 +1,23 @@
-<h2>Hey There!👋 I'm</h2>
+<p align="center">
+  <img src="Linkedin banner.png" alt="Banner" width="100%" />
+</p>
 
-<img src="logodemo.gif"></img>
 
 <div align="center">
+  <!-- Profile Views -->
+  <img src="https://vbr.nathanchung.dev/badge?page_id=VikrantKadam028&style=flat&color=ff69b4&logo=github&logoColor=white&label=Profile%20Views" 
+       alt="Profile Views" width="120" height="40"/>
+<br>
 
-![Visitors](https://vbr.nathanchung.dev/badge?page_id=VikrantKadam028&style=flat-square&color=ff69b4&logo=github&logoColor=white&label=Profile%20Views)
+</div>
+
+
+
+
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
