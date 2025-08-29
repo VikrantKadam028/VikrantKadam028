@@ -27,7 +27,7 @@
 ![Alt text](https://raw.githubusercontent.com/VikrantKadam028/VikrantKadam028/refs/heads/main/githubuser.svg)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VikrantKadam028&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikrantKadam028&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantKadam028&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
