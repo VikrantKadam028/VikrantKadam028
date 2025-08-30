@@ -21,20 +21,97 @@
 
 </div>
 
+## 💬 Book a Session
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="600" style="background: #ffffff; border: 2px solid #e0e0e0; border-radius: 12px; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
+      🚀 Let's Build Together <br><br>
+      <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
+        👉 Book a Session on Topmate
+      </a>
+      <br><br>
+      <span style="font-size:14px; font-weight:600; color:#333333;">
+        ⚡ Instant Tech Q&A • 📂 GitHub/LinkedIn Review • 🎯 Project Guidance
+      </span>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
 ## 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![Alt text](https://raw.githubusercontent.com/VikrantKadam028/VikrantKadam028/refs/heads/main/githubuser.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VikrantKadam028/VikrantKadam028/refs/heads/main/githubuser.svg" alt="Alt text" />
+</p>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=VikrantKadam028&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantKadam028&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=VikrantKadam028&theme=dark&hide_border=true" height="200"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantKadam028&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikrantKadam028&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VikrantKadam028&theme=react-dark&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VikrantKadam028&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VikrantKadam028&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-<h2 align="center">🧠 LeetCode Progress</h2>
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+<h2>LeetCode Progress</h2>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vikrantkadam?ext=heatmap&theme=dark" alt="LeetCode Stats" />
