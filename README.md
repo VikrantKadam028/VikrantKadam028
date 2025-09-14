@@ -30,7 +30,6 @@
         <table width="100%" cellpadding="0" cellspacing="0" style="background: #ffffff; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
           <tr>
             <td align="left">
-              <img src="poster.jpg" style="width:100%;">
               🚀 Let's Build Together <br><br>
               <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
                 👉 Book a Session on Topmate
