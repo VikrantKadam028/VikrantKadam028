@@ -22,35 +22,25 @@
 </div>
 
 ## 💬 Book a Session
-<div align="center" style="width:100%; max-width:600px; margin:0 auto;">
-  <!-- Session Container on Top -->
-  <table cellpadding="0" cellspacing="0" border="0" width="100%">
+<div align="center">
+  <table cellpadding="0" cellspacing="0" border="0" width="600">
     <tr>
-      <td valign="top" align="center" style="padding-bottom:20px;">
-        <table cellpadding="0" cellspacing="0" style="width:90%; max-width:500px; background:#ffffff; padding:20px; color:#000000; font-size:20px; font-weight:bold; border-radius:12px;">
-          <tr>
-            <td align="center">
-              🚀 Let's Build Together <br><br>
-              <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background:#000000; color:#ffffff; padding:10px 20px; text-decoration:none; border-radius:8px; font-size:16px; font-weight:bold; display:inline-block;">
-                👉 Book a Session on Topmate
-              </a>
-              <br><br>
-              <span style="font-size:14px; font-weight:600; color:#333333;">
-                ⚡ Instant Tech Q&A • 📂 GitHub/LinkedIn Review • 🎯 Project Guidance
-              </span>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <!-- GIF/Video Below -->
-    <tr>
-      <td valign="top" align="center">
-        <img src="aigenerated.gif" alt="Looping Video" style="width:80%; max-width:300px; height:auto; display:block; border-radius:8px;">
+      <td align="center" style="background: #ffffff; border-radius: 12px; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
+        <!-- Poster Image at Top -->
+        <img src="poster.jpg" alt="Poster" style="width:100%; max-width:500px; height:auto; display:block; margin-bottom:20px; border-radius:8px;">
+        🚀 Let's Build Together <br><br>
+        <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
+          👉 Book a Session on Topmate
+        </a>
+        <br><br>
+        <span style="font-size:14px; font-weight:600; color:#333333;">
+          ⚡ Instant Tech Q&A • 📂 GitHub/LinkedIn Review • 🎯 Project Guidance
+        </span>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 <div align="center">
