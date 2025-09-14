@@ -23,13 +23,13 @@
 
 ## 💬 Book a Session
 <div align="center">
-  <table cellpadding="0" cellspacing="0" border="0">
+  <table cellpadding="0" cellspacing="0" border="0" width="600">
     <tr>
-      <!-- Left Column: Session Info -->
-      <td width="50%" valign="top" style="padding-right:20px;">
-        <table width="100%" cellpadding="0" cellspacing="0" style="background: #ffffff; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
+      <!-- Session Container on Top -->
+      <td valign="top" align="center" style="padding-bottom:20px;">
+        <table width="80%" cellpadding="0" cellspacing="0" style="background: #ffffff; padding: 20px; color: #000000; font-size: 20px; font-weight: bold; border-radius: 12px;">
           <tr>
-            <td align="left">
+            <td align="center">
               🚀 Let's Build Together <br><br>
               <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
                 👉 Book a Session on Topmate
@@ -42,18 +42,15 @@
           </tr>
         </table>
       </td>
-      <!-- Right Column: Video/GIF -->
-      <td width="50%" valign="top" style="padding-left:20px;">
-        <img src="aigenerated.gif" alt="Looping Video" style="width:100%;">
+    </tr>
+    <!-- GIF/Video Below -->
+    <tr>
+      <td valign="top" align="center">
+        <img src="aigenerated.gif" alt="Looping Video" style="width:40%; height:auto; display:block; border-radius:8px;">
       </td>
     </tr>
   </table>
 </div>
-
-
-
-
-
 
 <div align="center">
   
