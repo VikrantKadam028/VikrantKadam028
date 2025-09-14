@@ -22,25 +22,36 @@
 </div>
 
 ## 💬 Book a Session
-
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="600" style="background: #ffffff; border: 2px solid #e0e0e0; border-radius: 12px; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
-      🚀 Let's Build Together <br><br>
-      <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
-        👉 Book a Session on Topmate
-      </a>
-      <br><br>
-      <span style="font-size:14px; font-weight:600; color:#333333;">
-        ⚡ Instant Tech Q&A • 📂 GitHub/LinkedIn Review • 🎯 Project Guidance
-      </span>
-    </td>
-  </tr>
-</table>
-
+  <table cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <!-- Left Column: Session Info -->
+      <td width="50%" valign="top" style="padding-right:20px;">
+        <table width="100%" cellpadding="0" cellspacing="0" style="background: #ffffff; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
+          <tr>
+            <td align="left">
+              <img src="poster.jpg" style="width:100%;">
+              🚀 Let's Build Together <br><br>
+              <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
+                👉 Book a Session on Topmate
+              </a>
+              <br><br>
+              <span style="font-size:14px; font-weight:600; color:#333333;">
+                ⚡ Instant Tech Q&A • 📂 GitHub/LinkedIn Review • 🎯 Project Guidance
+              </span>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <!-- Right Column: Video/GIF -->
+      <td width="50%" valign="top" style="padding-left:20px;">
+        <img src="aigenerated.gif" alt="Looping Video" style="width:100%;">
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 
 
