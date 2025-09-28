@@ -70,10 +70,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=VikrantKadam028&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=VikrantKadam028&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile" height="200"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikrantKadam028&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VikrantKadam028&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" height="200"/>
       </td>
     </tr>
   </table>
