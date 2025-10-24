@@ -27,7 +27,7 @@
     <tr>
       <td align="center" style="background: #ffffff; border-radius: 12px; padding: 20px; color: #000000; font-size: 20px; font-weight: bold;">
         <!-- Poster Image at Top -->
-        <img src="poster.jpg" alt="Poster" style="width:100%; max-width:500px; height:auto; display:block; margin-bottom:20px; border-radius:8px;">
+        <!-- <img src="poster.jpg" alt="Poster" style="width:100%; max-width:500px; height:auto; display:block; margin-bottom:20px; border-radius:8px;"> -->
         🚀 Let's Build Together <br><br>
         <a href="https://topmate.io/vikrant_kadam28" target="_blank" style="background: #000000; color: #ffffff; padding: 10px 20px; text-decoration: none; border-radius: 8px; font-size: 16px; font-weight: bold; display: inline-block;">
           👉 Book a Session on Topmate
