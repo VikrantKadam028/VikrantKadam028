@@ -104,32 +104,12 @@
 
 </div>
 
-<h2>🔄 LeetCode Progress</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vikrantkadam?ext=heatmap&theme=dark" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/vikrantkadam/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-</p>
-
 <div align="center">
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 📊 Codolio Profile
-[![Codolio](https://img.shields.io/badge/View%20My%20Codolio%20Profile-blue?style=for-the-badge&logo=codolio)](https://codolio.com/profile/VikrantKadam)
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikrantkadam28?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@VikrantKadam28) 
