@@ -66,7 +66,7 @@
       </td>
     </tr>
   </table>
-  <img src="https://streak-stats.demolab.com?user=VikrantKadam028&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=VikrantKadam028&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 <br>
