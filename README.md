@@ -56,16 +56,9 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikrantKadam028&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=percentile" height="200"/>
-      </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikrantKadam028&theme=dark&utcOffset=8&card_width=320&hide_border=true" height="200"/>
-      </td>
-    </tr>
-  </table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikrantKadam028&theme=dark&hide_border=true" height="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VikrantKadam028&theme=dark&utcOffset=8&hide_border=true" height="200"/>
+  <br>
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=VikrantKadam028&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
